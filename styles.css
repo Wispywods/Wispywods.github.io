@@ -1,12 +1,14 @@
 h1 {
     color: green
-    f
 }
-body {
+p {
     height: 200px;
     width: 100px;
     padding: 50px;
     margin: 80px;
     border: 15 px solid #4a412a;
     color: #fff8e7;
+}
+h2 {
+    color: rebeccapurple;
 }
