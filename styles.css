@@ -10,6 +10,7 @@ h1 {
     stroke-width: 30,5;
     color: #0cf;
     background-color: #0000ff;
+    word-spacing: 50px;
 }
 h3 {
     height: 40px;
