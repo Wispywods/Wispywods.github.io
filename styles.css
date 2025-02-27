@@ -22,5 +22,10 @@ h3 {
     background-color: rgb(132, 19, 105);
 }
 h2 {
-    color: rebeccapurple;
+    color: #000000;
+    height: 400px;
+    width: 2000px;
+    padding: 20px;
+    margin: 0px;
+    background-color: #90f;
 }
