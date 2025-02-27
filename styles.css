@@ -13,8 +13,8 @@ h1 {
     word-spacing: 120px;
 }
 h3 {
-    height: 40px;
-    width: 200px;
+    height: 100%;
+    width: 100%;
     padding: 20px;
     margin: 20px;
     border: 15 px solid #4a412a;
