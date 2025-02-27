@@ -29,3 +29,7 @@ h2 {
     margin: 0px;
     background-color: #90f;
 }
+image {
+    float: right;
+    display: inline-block;
+}
