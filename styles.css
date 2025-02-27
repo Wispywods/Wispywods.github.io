@@ -1,13 +1,13 @@
 h1 {
     color: green;
     font-family: fantasy;
-    height: 5px;
+    height: 0px;
     width: 100%;
     padding: 20px;
     margin: 0px;
     border: 15 px solid #4a412a;
     color: #fff8e7;
-    background-color: rgb(132, 19, 105);
+    background-color: #0000ff;
 }
 h3 {
     height: 40px;
