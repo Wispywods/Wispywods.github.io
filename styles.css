@@ -6,7 +6,8 @@ h1 {
     padding: 20px;
     margin: 0px;
     border: 15 px solid #4a412a;
-    color: #fff8e7;
+    stroke: #fff8e7;
+    color: #0cf;
     background-color: #0000ff;
 }
 h3 {
