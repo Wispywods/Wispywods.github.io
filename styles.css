@@ -7,6 +7,7 @@ h1 {
     margin: 0px;
     border: 15 px solid #4a412a;
     stroke: #fff8e7;
+    stroke-width: 5px;
     color: #0cf;
     background-color: #0000ff;
 }
